@@ -1,0 +1,47 @@
+ul {
+  font-style: italic;
+  font-weight: bold;
+  text-align:left;
+}
+img {
+display: block;
+margin: 0px auto;
+width:500px;
+height: 400px;
+}
+
+title {
+  font-weight: bold;
+}
+h1 {
+padding: 100px;
+font-size: 40px;
+
+}
+p {
+  border: thick solid #fffbf3;
+  padding: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color:#efced6;
+}
+h2 {
+  font-weight: bolder;
+
+}
+h1,h2,p {
+  text-align: center;
+}
+h1 {
+  background-image:
+  url("http://rostigraben.ch/wp-content/uploads/2015/03/iStock_000025526734_new-size-1024x794.png");
+background-size:cover;
+background-attachment:scroll;
+background-position: center;
+color: 	#924141;
+}
+* {
+  background-color:#efd9ce;
+font-family: "Tekton pro";
+color: #6699cc;
+}
